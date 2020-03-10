@@ -1,24 +1,3 @@
----
-title: "Sample crack analysis for a soil from spain"
-author: Liu et al. 2019
-output:
-  word_document: 
-    toc: yes
-    toc_depth: 4
-  pdf_document:
-    toc: yes
-    toc_depth: '4'
-  html_document:
-    number_sections: no
-    toc: yes
-    toc_depth: 4
-    toc_float: yes
----
-
-Version from `r {date()}`
-
-This document is written in rmd format (R markup language), if you want to test the program use the following procedure:
-
 # Software requirements
 
 The programming environment requirement for this analysis is:
